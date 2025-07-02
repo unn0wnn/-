@@ -1,4 +1,4 @@
-local Flux = loadstring(game:HttpGet("https://raw.githubusercontent.com/unn0wnn/Aurax-UI/refs/heads/main/UI.txt"))()
+local Flux = loadstring(game:HttpGet("https://raw.githubusercontent.com/unn0wnn/AUR-UI/refs/heads/main/Y_responsive.txt"))()
 
 local UI = Flux:Window("All Mountain", "made by sin", Color3.fromRGB(0, 170, 255), Enum.KeyCode.LeftControl)
 local Tab = UI:Tab("Mount Salak", "rbxassetid://6035067836")
